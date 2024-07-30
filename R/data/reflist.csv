@@ -1,0 +1,8 @@
+﻿Reference,Description,Species
+LungMAP_HumanLung_CellRef_Seed.v1.1,LungMAP CellCards Reference human,human
+LungMAP_MouseLungDevelopment_CellRef_Seed.v1.1,LungMAP CellCards Reference mouse,mouse
+GSE227136_ILD_all_celltypes_Seurat,Lung ILD Samples - all celltypes (GSE227136),human
+GSE227136_ILD_endothelial_Seurat,Lung ILD Samples - endothelial subset (GSE227136),human
+GSE227136_ILD_epithelial_Seurat,Lung ILD Samples - epithelial subset (GSE227136),human
+GSE227136_ILD_mesenchymal_Seurat,Lung ILD Samples - mesenchymal subset (GSE227136),human
+GSE227136_ILD_immune_Seurat,Lung ILD Samples -immune subset (GSE227136),human
